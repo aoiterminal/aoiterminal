@@ -1,4 +1,4 @@
-## Hi there 👋
+## Vault 42 smart contract will be shared publicly here ahead of the official launch.
 
 <!--
 **aoiterminal/aoiterminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
